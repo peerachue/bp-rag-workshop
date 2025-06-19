@@ -9,8 +9,7 @@
     "dev": "bun --hot src/index.tsx",
     "start": "NODE_ENV=production bun src/index.tsx",
     "build": "bun run build.ts",
-    "clean": "rm -rf dist && echo 'Done.'",
-    "chroma": "chroma run --path ./chroma-data"
+    "clean": "rm -rf dist && echo 'Done.'"
   },
   "dependencies": {
     "@hookform/resolvers": "^4.1.0",
