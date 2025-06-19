@@ -9,10 +9,12 @@
     "dev": "bun --hot src/index.tsx",
     "start": "NODE_ENV=production bun src/index.tsx",
     "build": "bun run build.ts",
-    "clean": "rm -rf dist && echo 'Done.'"
+    "clean": "rm -rf dist && echo 'Done.'",
+    "chroma": "chroma run --path ./chroma-data"
   },
   "dependencies": {
     "@hookform/resolvers": "^4.1.0",
+    "@langchain/community": "^0.3.46",
     "@langchain/core": "^0.3.59",
     "@langchain/openai": "^0.5.13",
     "@radix-ui/react-dialog": "^1.1.14",
@@ -28,6 +30,7 @@
     "clsx": "^2.1.1",
     "langchain": "^0.3.28",
     "lucide-react": "^0.517.0",
+    "pdf-parse": "^1.1.1",
     "react": "^19",
     "react-dom": "^19",
     "react-hook-form": "^7.54.2",

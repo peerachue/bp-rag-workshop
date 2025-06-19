@@ -27,6 +27,10 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .cache
 *.tsbuildinfo
 
+# RAG system caches
+.vector-cache/
+chroma-data/
+
 # IntelliJ based IDEs
 .idea
 
