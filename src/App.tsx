@@ -1,11 +1,12 @@
 import "./index.css";
-import Layout from "./components/ui/Layout";
+import Layout from "./components/ui/layout";
+import { Chat } from "./components/chat";
 
 export function App() {
 	return (
-		<div className="container mx-auto p-8 text-center relative z-10">
+		<div>
 			<Layout>
-				<h1>Hello World</h1>
+				<Chat />
 			</Layout>
 		</div>
 	);

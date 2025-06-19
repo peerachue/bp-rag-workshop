@@ -1,0 +1,158 @@
+1. วันเดินทางที่แต่ละคนสามารถไป Outing ได้
+ 
+วันที่ 13–14 มิถุนายน:
+Wankanok R.
+Titaya Chatchawalsakul
+Thirakan Kunalai
+Chaiwat Kanchanarat
+Kraiwut W
+Matee R
+Chanwit Y
+Tisan P
+Kantaphon Chueanaka
+Thanachot Tesjaroen
+Nakarin Audsri
+Supakorn Apai
+Thanakarn Preechapaisarnjit
+Kittanet Natsarepong
+Peera Chuenbunchom
+Jakkrit Chaiwan
+Pradit Kaitlunsong
+Kritsanaphun Pongprasert
+ 
+วันที่ 20–21 มิถุนายน:
+- Wankanok R. (Pat, Alumni)
+- Titaya Chatchawalsakul
+- Thirakan Kunalai
+- Kavisara Thisakobsuk
+- Kanjanawan Phissawong
+- Jittraphon Aiamsiriwat
+- Natcharee Suksirisakultobua
+- Mira Surivipaworachote
+- Chaiwat Kanchanarat
+- Kraiwut W
+- Matee R
+- Chanwit Y
+- Tisan P
+- Kantaphon Chueanaka
+- Thanachot Tesjaroen
+- Nakarin Audsri
+- Patipong Toisuwan
+- Supakorn Apai
+- Thanakarn Preechapaisarnjit
+- Kukiat Wangtaphan
+- Kittanet Natsarepong
+- Buncha Rungrueng
+- Sakkarin Ruengkaew
+- Peera Chuenbunchom
+- Sarawut Kokthong
+- Jakkrit Chaiwan
+- Pradit Kaitlunsong
+- Buncha Pimsen
+- Montol Saklor
+- Kritsanaphun Pongprasert
+ 
+วันที่ 27–28 มิถุนายน:
+- Wankanok R.
+- Thirakan Kunalai
+- Kavisara Thisakobsuk
+- Jittraphon Aiamsiriwat
+- Chaiwat Kanchanarat
+- Kraiwut W
+- Matee R
+- Chanwit Y
+- Kantaphon Chueanaka
+- Thanachot Tesjaroen
+- Nakarin Audsri
+- Patipong Toisuwan
+- Supakorn Apai
+- Thanakarn Preechapaisarnjit
+- Kukiat Wangtaphan
+- Kittanet Natsarepong
+- Buncha Rungrueng
+- Sakkarin Ruengkaew
+- Peera Chuenbunchom
+- Sarawut Kokthong
+- Pradit Kaitlunsong
+- Buncha Pimsen
+- Montol Saklor
+ 
+2. ห้องพักของแต่ละคน
+ 
+- Wankanok R. (F) – H2.3
+- Titaya Chatchawalsakul (F) – H2.3
+- Thirakan Kunalai (F) – H5
+- Kavisara Thisakobsuk (F) – H2.3
+- Kanjanawan Phissawong (F) – H5
+- Jittraphon Aiamsiriwat (F) – H5
+- Natcharee Suksirisakultobua (F) – H5
+- Mira Surivipaworachote (F) – H5
+- Chaiwat Kanchanarat (M) – T
+- Kraiwut W (M) – H2.1
+- Matee R (M) – H2.1
+- Chanwit Y (M) – H2.2
+- Tisan P (M) – H2.2
+- Kantaphon Chueanaka (M) – H10
+- Thanachot Tesjaroen (M) – H2.2
+- Nakarin Audsri (M) – H2.2
+- Patipong Toisuwan (M) – H10
+- Supakorn Apai (M) – H10
+- Thanakarn Preechapaisarnjit (M) – H10
+- Kukiat Wangtaphan (M) – H10
+- Kittanet Natsarepong (M) – H10
+- Buncha Rungrueng (M) – H2.1
+- Sakkarin Ruengkaew (M) – H10
+- Peera Chuenbunchom (M) – H10
+- Sarawut Kokthong (M) – H10
+- Jakkrit Chaiwan (M) – H10
+- Pradit Kaitlunsong (M) – H2.1
+- Buncha Pimsen (M) – H10
+- Montol Saklor (M) – H10
+- Kritsanaphun Pongprasert (M) – H10
+ 
+3. สิ่งของที่แต่ละคนนำมา
+ 
+- Natcharee Suksirisakultobua – เก้าอี้ 2, โต๊ะ 1, ผ้าใบ 1
+- Chaiwat Kanchanarat – เก้าอี้ 2, โต๊ะ 1, ผ้าใบ 2
+- Tisan P – เก้าอี้ 2, โต๊ะ 1
+- Nakarin Audsri – เก้าอี้ 1
+- Thanakarn Preechapaisarnjit – โต๊ะ 1
+- Kittanet Natsarepong – เก้าอี้ 1
+- Buncha Rungrueng – เก้าอี้ 2
+- Peera Chuenbunchom – เก้าอี้ 2, ผ้าใบ 1
+- Jakkrit Chaiwan – เก้าอี้ 2
+- Pradit Kaitlunsong – เก้าอี้ 2
+- Kritsanaphun Pongprasert – เก้าอี้ 1
+ 
+4. กำหนดการกิจกรรม
+ 
+Day 1:
+- 08:30 - 11:00 | ห้อง 910: [BE Q, Cha, Ump], [BE Ink, Teng, Tao], [BE Duke2, Toad, Keem], [FE Gift, Ning, Noon], [FE Ann, Pete, Up]
+- 09:30 - 11:00 | ห้อง 901: Retro - BA --> User Story Generation (Less is More)
+- 11:00 - 12:00 | Lunch
+- 12:01 - 14:00 | ห้อง 910: [BA Team] - Topic? 1 hour
+- 14:00 - 17:30 | ห้อง 913: [Support] - Incident workflow brainstorm / [Beer] RAG Sharing (2 hr)
+ 
+Day 2:
+- 08:30 - 12:00 | ห้อง 908: RAG - Workshop
+- 12:01 - 13:00 | Lunch
+- 13:00 - 15:00 | ห้อง 906, 907: RAG - Workshop
+- 15:00 - 16:00 | ห้อง 902: Bio Break & เก็บของ
+- 16:01 - 17:30 | ห้อง 906, 907: RAG - Workshop
+ 
+Day 3:
+- พบกันเวลา 12:00 เพื่อเดินทางไป Bayon Tasai
+ 
+Day 4:
+- ช่วงเช้า: Closing และแยกย้ายกลับบ้าน
+ 
+5. การเดินทางร่วมกัน (Car Pool)
+ 
+- Tisan – MRT รัชดา: Kavisara, Wankanok
+- Nakarin – สุขสวัสดิ์-พระราม2
+- Pradit – รามอินทรา-มีนบุรี: Buncha R, Montol S, Kritsanaphun
+- Kittanet – สายไหม: Kantaphon, Kukiat, Thanachot
+- Sakkarin, Supakorn, Sarawut – BTS หรือ MRT
+- Sarawut – บางนา: Chanwit Y, Thirakan K, Buncha P, Natcharee
+- Jittraphon A., Titaya C.
+- Patipong – พระราม3-ยานนาวา
