@@ -1,0 +1,49 @@
+การดูแลระบบ (System Ownership พร้อมประเภท Incidents)
+ 
+รายชื่อ Buncha Rungrueng
+ACCP – Small
+Bill Placement – Small
+MSAL – Small
+TA+ – Small
+MyBP – Small
+GUP – Small
+Bank Reconcile – Small
+OTS – Small
+Outgoing Letter – Small
+ 
+รายชื่อ Kritsanaphun Pongprasert
+Vendor Form – Small
+DOA – Small
+DotM – Small
+APVC API – Small
+ 
+รายชื่อ Pradit Kiatlunsong
+Coupa User* – Small
+UserProfileAPI + children – Small
+OracleAPI – Small
+Currency API – Small
+KPI – Large
+ 
+รายชื่อ Thanakarn Preechapaisarnjit
+Bnext Billing – Small (ร่วมกับ Tisan_p)
+HSEC-GHG – Small
+HSEC-WASTE – Small
+HSEC-IRS – Small
+Compliance (Law In Hand) – Small
+ 
+รายชื่อ Nakarin Audsri
+ECM – Small
+ 
+รายชื่อ Vendor (Bluebrik)
+ECM – Small
+ 
+รายชื่อ Vendor (K.Champ)
+HSEC-CEMS – Small
+CATM – Small
+B-FinX – Small
+Ceres – Small
+PPC – Small
+CorpDB – Small
+ 
+รายชื่อ Vendor (Pop)
+SustainWeb – Small

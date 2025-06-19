@@ -17,7 +17,7 @@ DOA – Small
 DotM – Small
 APVC API – Small
  
-รายชื่อ Thanakarn Preechapaisarnjit
+รายชื่อ Pradit Kiatlunsong
 Coupa User* – Small
 UserProfileAPI + children – Small
 OracleAPI – Small
@@ -45,5 +45,5 @@ Ceres – Small
 PPC – Small
 CorpDB – Small
  
-Vendor, Pop
+รายชื่อ Vendor (Pop)
 SustainWeb – Small
